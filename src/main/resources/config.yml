@@ -1,0 +1,7 @@
+botToken: 'somebottoken'
+commandPrefix: '%'
+messageEntries:
+- messageId: 'somemessageid'
+  reactionEntries:
+  - reactionName: 'somereaction name, e.g smile'
+    roleId: 'someroleid'
