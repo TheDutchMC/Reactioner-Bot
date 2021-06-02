@@ -90,7 +90,10 @@ Example:
 >Note: To make deployments on K8s easier, you can use `FROM_ENV` in the `botToken` field, Reactioner will then use the environmental variable `BOT_TOKEN`. Though you can also just fill in the token directly.
 
 ## Licence
-This project is licenced under the [GPL-v3 Licence](LICENCE). Contributors will retain the copyright on their contributions.
+This project is licenced under the [GPL-v3 Licence](LICENSE). Contributors will retain the copyright on their contributions.
 
 ## Contributing
 Any contributions are welcome. Just open a PR or Issue and go :)
+
+## See also
+- [TheDutchMC/HomelabKubernetes](https://github.com/TheDutchMC/HomelabKubernetes)
